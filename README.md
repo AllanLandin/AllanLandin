@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá! Eu sou o Allan Landin! 👋
 
-<!--
-**AllanLandin/AllanLandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas e principalmente estudando sobre desenvolvimento web. 
 
-Here are some ideas to get you started:
+## Redes
+<div>
+  <a href="https://www.linkedin.com/in/allan-landin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+  <a href="mailto:allan.landin25@gmail.com?subject=Quero conversar com você Allan!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estatísticas  
+  ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanLandin&show_icons=true&theme=transparent)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanLandin&hide_progress=true)
+
+
+
