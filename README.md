@@ -2,7 +2,7 @@
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e principalmente estudando sobre desenvolvimento web. 
 
-## Redes
+## Contatos
 <div>
   <a href="https://www.linkedin.com/in/allan-landin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
   <a href="mailto:allan.landin25@gmail.com?subject=Quero conversar com você Allan!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
